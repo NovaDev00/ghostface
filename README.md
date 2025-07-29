@@ -22,4 +22,6 @@ python3 ghostface.pyc
 python3 ghostface.pyc -a 5
 ```
 
-⚠️ **Warning:** For **legal/ethical use only**. Never impersonate real individuals.  
+
+
+✅ Easy to use
