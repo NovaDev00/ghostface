@@ -12,7 +12,7 @@ GhostFace – AI-generated anonymous faces for ethical hacking. Creates untracea
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/stealthface.git
+git clone https://github.com/NovaDev00/ghostface.git
 ```
 ## Use
 ```
